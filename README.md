@@ -1,6 +1,5 @@
 # SSVMR: SALIENCY-BASED SELF-LEARNING FOR VIDEO-MUSIC RETRIEVAL
-![image](pytorch.png)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+![image](pytorch.png)
 
 This repository contains the PyTorch implementation and the data of the paper: 
 > **A Dynamic Graph Interactive Framework with Label-Semantic Injection for Spoken Language Understanding** 
